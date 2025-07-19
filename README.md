@@ -1,4 +1,4 @@
-# FIRST-REPOSITORY
-THIS IS MY GIT HUB REPOSITORY
+# First-Repository
+THIS IS MY FIRST GIT HUB REPOSITORY
 <br>
 Author - Kunal Chaudhari
